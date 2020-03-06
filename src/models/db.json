@@ -1,0 +1,131 @@
+{
+  "pokemons": [
+    {
+      "id": 3,
+      "name": "Carapuce",
+      "hp": 21,
+      "cp": 4,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/007.png",
+      "types": [
+        "Eau"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Aspicot",
+      "hp": 16,
+      "cp": 2,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/013.png",
+      "types": [
+        "Insecte",
+        "Poison"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Roucool",
+      "hp": 30,
+      "cp": 7,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/016.png",
+      "types": [
+        "Normal",
+        "Vol"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Rattata",
+      "hp": 18,
+      "cp": 6,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/019.png",
+      "types": [
+        "Normal"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Piafabec",
+      "hp": 14,
+      "cp": 5,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/021.png",
+      "types": [
+        "Normal",
+        "Vol"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Abo",
+      "hp": 16,
+      "cp": 4,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/023.png",
+      "types": [
+        "Poison"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Sabelette",
+      "hp": 19,
+      "cp": 3,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/027.png",
+      "types": [
+        "Normal"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Mélofée",
+      "hp": 25,
+      "cp": 5,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/035.png",
+      "types": [
+        "Fée"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Groupix",
+      "hp": 17,
+      "cp": 8,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/037.png",
+      "types": [
+        "Feu"
+      ]
+    },
+    {
+      "id": 1583418919995,
+      "hp": "98",
+      "cp": 10,
+      "name": "cisayox",
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/212.png",
+      "types": [
+        "Normal",
+        "Plante",
+        "Vol"
+      ]
+    },
+    {
+      "id": 1583433089557,
+      "hp": 100,
+      "cp": 10,
+      "name": "yueyibitch",
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/222.png",
+      "types": [
+        "Poison",
+        "Eau"
+      ]
+    },
+    {
+      "id": 1583433133594,
+      "hp": 100,
+      "cp": 10,
+      "name": "Balou",
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/305.png",
+      "types": [
+        "Combat",
+        "Vol"
+      ]
+    }
+  ]
+}
