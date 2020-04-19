@@ -6,9 +6,13 @@ Site web REACT permettant de consulter les pokémons. Site herbégé via firebas
 pascal-practice git merge
 ## fonctionnalités
 
-* authentification
-* lister les meilleurs, les top pokémons
-* recherche pokémon
-* créer , lire , éditer, supprimer et pleins d'autres choses chouette
 
+* authentification.
+* lister les pokémons.
+* recherche pokémon.
+* créer, lire, éditer, supprimer.
+
+## Installation 
+
+npm i 
 
