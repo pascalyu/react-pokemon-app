@@ -7,7 +7,8 @@ pascal-practice git merge
 ## fonctionnalités
 
 * authentification
-* lister les pokémons
+* lister les meilleurs, les top pokémons
 * recherche pokémon
-* créer , lire , éditer, supprimer 
+* créer , lire , éditer, supprimer et pleins d'autres choses chouette
+
 
